@@ -1,0 +1,4 @@
+clk_divider.cache/*
+clk_divider.hw/*
+clk_divider.ip_user_files/*
+clk_divider.sim/*
